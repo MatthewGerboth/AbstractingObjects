@@ -117,13 +117,6 @@ public class TrashTruck {
         System.out.println("Sniffing the trash... Smell factor is " + smellFactor + ".");
     }
 
-    /**
-     * Gets the driver of the truck.
-     * @return The driver of the truck.
-     */
-    public Driver getDriver() {
-        return driver;
-    }
 
     /**
      * Sets the driver of the truck.
