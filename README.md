@@ -16,3 +16,4 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+<img width="331" height="721" alt="Abstracting Real Objcts drawio" src="https://github.com/user-attachments/assets/950f3616-052e-4359-b451-7cd6e56fc578" />
